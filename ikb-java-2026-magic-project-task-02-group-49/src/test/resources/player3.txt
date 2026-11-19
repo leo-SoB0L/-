@@ -1,0 +1,4 @@
+TestPlayer3
+TestPlayer3_howlgeist
+Testing
+src/test/resources/howlgeist

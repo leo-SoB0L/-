@@ -1,0 +1,26 @@
+package ru.mirea.magic.card;
+
+import java.io.Serializable;
+
+public class CardType implements Serializable {
+    private SuperType superType;
+
+    private String type;
+
+    private String subType;
+
+    public CardType(SuperType superType, String type, String subType) {
+        this.superType = superType;
+        this.type = type;
+        this.subType = subType;
+    }
+
+    @Override
+    public String toString() {
+        return superType.toString() +
+                " " +
+                type +
+                " - " +
+                subType.trim();
+    }
+}

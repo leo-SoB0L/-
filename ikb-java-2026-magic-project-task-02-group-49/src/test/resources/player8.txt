@@ -1,0 +1,4 @@
+TestPlayer8
+TestPlayer8_aven_riftwatcher
+Testing
+src/test/resources/aven_riftwatcher

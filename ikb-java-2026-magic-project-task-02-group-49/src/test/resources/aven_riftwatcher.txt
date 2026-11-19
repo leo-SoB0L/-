@@ -1,0 +1,7 @@
+Aven Riftwatcher
+{2}{W}
+Creature — Bird Rebel Soldier
+Flying
+-
+2/3
+TSR

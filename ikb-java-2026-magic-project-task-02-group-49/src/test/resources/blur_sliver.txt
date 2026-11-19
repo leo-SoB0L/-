@@ -1,0 +1,7 @@
+Blur Sliver
+{2}{R}
+Creature — Sliver
+-
+-
+4/8
+CMM

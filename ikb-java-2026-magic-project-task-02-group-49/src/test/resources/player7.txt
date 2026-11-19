@@ -1,0 +1,4 @@
+TestPlayer7
+TestPlayer7_emancipation_angel
+Testing
+src/test/resources/emancipation_angel

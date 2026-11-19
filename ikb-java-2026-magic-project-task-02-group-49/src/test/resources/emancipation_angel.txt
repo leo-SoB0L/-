@@ -1,0 +1,7 @@
+Emancipation Angel
+{1}{W}{W}
+Creature — Angel
+Flying
+-
+3/7
+DDQ

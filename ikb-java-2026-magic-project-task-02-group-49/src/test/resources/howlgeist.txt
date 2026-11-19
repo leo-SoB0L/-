@@ -1,0 +1,7 @@
+Howlgeist
+{5}{G}
+Creature — Spirit Wolf
+FirstStrike
+-
+4/12
+AVR

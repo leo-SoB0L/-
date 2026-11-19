@@ -1,0 +1,7 @@
+Makeshift Battalion
+{2}{W}
+Creature — Human Soldier
+-
+-
+3/12
+M21

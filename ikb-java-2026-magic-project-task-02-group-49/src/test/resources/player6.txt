@@ -1,0 +1,4 @@
+TestPlayer6
+TestPlayer6_charging_hooligan
+Testing
+src/test/resources/charging_hooligan

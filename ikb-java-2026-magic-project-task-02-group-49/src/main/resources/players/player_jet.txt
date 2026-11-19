@@ -1,0 +1,4 @@
+Домрин
+Даниил
+БСБО-54-25
+src/main/resources/cards/jet_rebel_leader

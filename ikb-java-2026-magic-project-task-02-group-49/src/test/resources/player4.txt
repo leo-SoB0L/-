@@ -1,0 +1,4 @@
+TestPlayer4
+TestPlayer4_makeshift_battalion
+Testing
+src/test/resources/makeshift_battalion

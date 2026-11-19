@@ -1,0 +1,7 @@
+Astarion, The Decadent
+{4}{W}{W}{B}
+Legendary Creature — Vampire Elf Rogue
+Deathtouch, Lifelink
+-
+4/12
+CBR

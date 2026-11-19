@@ -1,0 +1,7 @@
+Jet, Rebel Leader
+{3}{W}
+Legendary Creature — Human Rebel Ally
+-
+Whenever Jet attacks, look at the top five cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield tapped and attacking. Put the rest on the bottom of your library in a random order.
+3/4
+TLE

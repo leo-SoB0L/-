@@ -1,0 +1,4 @@
+TestPlayer2
+TestPlayer2_d-avenant
+Testing
+src/test/resources/d-avenant

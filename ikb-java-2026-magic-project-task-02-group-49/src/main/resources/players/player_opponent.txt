@@ -1,0 +1,4 @@
+Спарринг
+Партнёр
+Teacher
+src/main/resources/cards/aven_riftwatcher
